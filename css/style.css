@@ -1,0 +1,25 @@
+body {
+    font-family: "helvetica neue";
+    color: #666;
+}
+
+img {
+  width: 200px;
+}
+.hide {
+  display: none;
+}
+
+.sidePadding{
+	padding-left: 150px;
+}
+
+.buttons{
+	width: 100px;
+    height: 100px;
+}
+
+
+.padding{
+	padding-bottom: 40px;
+}
